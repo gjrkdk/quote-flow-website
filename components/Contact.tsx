@@ -45,7 +45,7 @@ export function Contact() {
             <div>
               <h2 className="reveal text-3xl sm:text-4xl font-medium text-gray-900 mb-4">Get started with QuoteFlow</h2>
               <p className="reveal text-gray-600" style={{ transitionDelay: '100ms' }}>
-                Have questions about custom pricing for your Shopify store? We're here to help.
+                Have questions about custom pricing for your Shopify store? We&apos;re here to help.
               </p>
             </div>
 
